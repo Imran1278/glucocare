@@ -33,7 +33,7 @@ Fonts: Google Fonts Integration.
 # ⚙️ Installation Guide:
 
 1: Clone the Repository:-
-git clone https://github.com/your-username/GlucoCare.git
+git clone https://github.com/Imran1278/glucocare
 
 2: Setup Database:-
 Open phpMyAdmin.
