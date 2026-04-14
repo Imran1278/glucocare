@@ -1,0 +1,248 @@
+:root {
+    --primary: #2563eb;
+    --primary-hover: #1d4ed8;
+    --primary-soft: #eff6ff;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --text-main: #0f172a;
+    --text-muted: #64748b;
+    --bg-body: #f1f5f9;
+    --white: #ffffff;
+    --radius-lg: 16px;
+    --radius-md: 12px;
+    --shadow-card: 0 10px 15px -3px rgba(0, 0, 0, 0.04), 0 4px 6px -2px rgba(0, 0, 0, 0.02);
+    --transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Plus Jakarta Sans', sans-serif; }
+
+body { background-color: var(--bg-body); color: var(--text-main); line-height: 1.5; }
+
+.container {
+    max-width: 1300px;
+    margin: 120px auto;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 32px;
+    padding: 0 24px;
+}
+
+/* --- ENHANCED SIDEBAR --- */
+.sidebar-filter {
+    background: var(--white);
+    padding: 28px;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-card);
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    height: fit-content;
+    position: sticky;
+    top: 30px;
+}
+
+.sidebar-filter h3 {
+    font-size: 1.15rem;
+    margin-bottom: 24px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--text-main);
+}
+
+.input-wrapper { margin-bottom: 20px; }
+.input-wrapper label {
+    display: block;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+}
+
+.sidebar-filter input, .sidebar-filter select {
+    width: 100%;
+    padding: 12px 16px;
+    background: #f8fafc;
+    border: 1.5px solid #e2e8f0;
+    border-radius: var(--radius-md);
+    outline: none;
+    transition: var(--transition);
+}
+
+.sidebar-filter input:focus { border-color: var(--primary); background: #fff; box-shadow: 0 0 0 4px var(--primary-soft); }
+
+.search-trigger {
+    width: 100%;
+    background: var(--primary);
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: var(--radius-md);
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition);
+    margin-top: 10px;
+}
+
+.search-trigger:hover { background: var(--primary-hover); transform: translateY(-2px); }
+
+/* --- PREMIUM DOCTOR CARD --- */
+.doctor-card {
+    background: var(--white);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    margin-bottom: 24px;
+    display: flex;
+    gap: 28px;
+    border: 1px solid rgba(226, 232, 240, 0.5);
+    box-shadow: var(--shadow-card);
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+}
+
+.doctor-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.08);
+    border-color: var(--primary-soft);
+}
+
+.doc-profile-area { position: relative; }
+.doc-image {
+    width: 160px;
+    height: 160px;
+    border-radius: var(--radius-md);
+    object-fit: cover;
+    background: #f1f5f9;
+}
+
+.badge-verified {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(16, 185, 129, 0.95);
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 20px;
+    backdrop-filter: blur(4px);
+}
+
+.doc-details { flex: 1; }
+.doc-details h2 { font-size: 1.4rem; color: var(--text-main); margin-bottom: 4px; }
+
+.specialization {
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.meta-stats { display: flex; gap: 20px; margin: 16px 0; }
+.meta-item {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.meta-item i { color: var(--warning); font-size: 14px; }
+
+.tags-container { display: flex; gap: 10px; margin-top: 16px; }
+.service-pill {
+    background: #f1f5f9;
+    color: #475569;
+    padding: 6px 14px;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+/* --- PRICING SECTION --- */
+.doc-cta-area {
+    min-width: 220px;
+    padding-left: 28px;
+    border-left: 1px dashed #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fee-info p { font-size: 0.8rem; color: var(--text-muted); font-weight: 500; }
+.fee-info .amount { font-size: 1.6rem; font-weight: 800; color: var(--text-main); }
+
+.availability-status {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85rem;
+    color: var(--success);
+    font-weight: 600;
+    margin: 12px 0;
+}
+
+.pulse-dot {
+    height: 8px; width: 8px;
+    background-color: var(--success);
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0 0 0 rgba(16, 185, 129, 0.4);
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0px rgba(16, 185, 129, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(16, 185, 129, 0); }
+    100% { box-shadow: 0 0 0 0px rgba(16, 185, 129, 0); }
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    transition: var(--transition);
+}
+
+.btn-book { background: var(--primary); color: white; }
+.btn-view { border: 1.5px solid var(--primary); color: var(--primary); }
+.btn-view:hover { background: var(--primary-soft); }
+
+/* Mobile Optimization */
+@media (max-width: 1024px) {
+    .container { grid-template-columns: 1fr; }
+    .sidebar-filter { position: relative; top: 0; }
+}
+
+@media (max-width: 640px) {
+    .doctor-card { flex-direction: column; }
+    .doc-cta-area { border-left: none; border-top: 1px solid #f1f5f9; padding: 20px 0 0 0; }
+    .doc-image { width: 100%; height: 220px; }
+}
+/* Bottom */
+.footer-bottom {
+border-top: 1px solid #dbeafe;
+padding: 25px 0;
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: #4b5563;
+}
+
+.policy-links a {
+text-decoration: none;
+color: #4b5563;
+margin: 0 6px;
+}
+
+.policy-links a:hover {
+color: #1a8cff;
+}
+

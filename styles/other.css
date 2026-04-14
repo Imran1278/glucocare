@@ -1,0 +1,104 @@
+/* remove default link style */
+.spec-link {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+
+/* card info styling */
+.spec-info {
+    padding: 14px 18px;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+/* title */
+.spec-info h4 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+}
+
+/* subtitle */
+.spec-info span {
+    font-size: 14px;
+    color: #777;
+}
+
+/* hover effect */
+.spec-link:hover .spec-info {
+    background: rgba(0, 123, 255, 0.08);
+    transform: translateY(-3px);
+}
+
+/* hover text color */
+.spec-link:hover h4 {
+    color: #007bff;
+}
+/* Card ke andar link ki styling */
+.info-box h4 a {
+    text-decoration: none; /* Underline khatam karne ke liye */
+    color: #333;           /* Jo aapka heading ka rang hai (dark grey/black) */
+    transition: 0.3s;      /* Smooth effect ke liye */
+}
+
+/* Jab mouse naam par jaye (Hover effect) */
+.info-box h4 a:hover {
+    color: #007bff;       /* Rang badal kar blue ya jo bhi aapka theme color hai */
+}
+
+/* Poore card ko clickable banane ke liye cursor pointer */
+.doc-card-compact {
+    cursor: pointer;
+}
+.service-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.service-box {
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.service-box:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+.auth-group {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.user-welcome {
+    font-size: 15px;
+    color: #334155;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.user-welcome i {
+    color: #10b981; /* Green color icon */
+    font-size: 18px;
+}
+
+.btn-logout {
+    background: #fee2e2;
+    color: #ef4444;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.btn-logout:hover {
+    background: #ef4444;
+    color: white;
+}
+

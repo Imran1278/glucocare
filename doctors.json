@@ -1,0 +1,578 @@
+[
+    {
+        "id": "14",
+        "name": "Dr. Maria Saigol",
+        "specialty": "Diabetologist",
+        "bio": "Dr. Maria Saigol is a top Diabetologist with 18 years of experience currently practicing at Chughtai Medical Center (DD), Lahore. In order to book an appointment with Dr. Maria Saigol you can call 04238900939 or click the Book Appointment button.",
+        "image": "1770626948_doc12.jpg",
+        "phone": " +92 309 2227770, 04238900939",
+        "email": "saigol@gmail.pk",
+        "address": "Chughtai Medical Center (DD), Diabetes Wellness Center",
+        "exp": "18",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "M.B.B.S - King Edward Medical University, 2001",
+        "languages": "English, Urdu",
+        "price": "10.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "12:30 - 02:00, 05:30 - 07:00",
+                "location": "Chughtai Medical Center, Diabetes Wellness Center"
+            },
+            "Tuesday": {
+                "time": "12:30 - 02:00, 05:30 - 07:00",
+                "location": "Chughtai Medical Center, Diabetes Wellness Center"
+            },
+            "Wednesday": {
+                "time": "12:30 - 02:00, 05:30 - 07:00",
+                "location": "Chughtai Medical Center, Diabetes Wellness Center"
+            },
+            "Thursday": {
+                "time": "12:30 - 02:00, 05:30 - 07:00",
+                "location": "Chughtai Medical Center, Diabetes Wellness Center"
+            },
+            "Friday": {
+                "time": "12:30 - 02:00, 05:30 - 07:00",
+                "location": "Chughtai Medical Center, Diabetes Wellness Center"
+            },
+            "Saturday": {
+                "time": "05:30 - 07:00",
+                "location": "Diabetes Wellness Center"
+            },
+            "Sunday": {
+                "time": "05:30 - 07:00",
+                "location": "Diabetes Wellness Center"
+            }
+        }
+    },
+    {
+        "id": "13",
+        "name": "Dr. Rizwan Arshad",
+        "specialty": "Orthopedic",
+        "bio": "Dr. Rizwan Arshad is a highly respected and experienced Orthopedic Surgeon in Sargodha, Pakistan, providing expert medical care through in-clinic and online consultations. Patients can book an appointment by calling 042-32377001. With a strong commitment to patient care, Dr. Rizwan Arshad delivers a personalized, ethical, and accessible healthcare experience through the Apka Muaalij digital healthcare platform. His empathetic communication style and clinical expertise help patients feel confident and comfortable throughout their healthcare journey.",
+        "image": "1770624218_doc7.jpg",
+        "phone": "042 32377001",
+        "email": "rizwan.arshad@dnsc.uol.edu.pk",
+        "address": "Niazi Medical Complex, Club Road, Sargodha",
+        "exp": "15",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "FCPS Orthopaedic Surgery , MBBS",
+        "languages": "English, Urdu",
+        "price": "5.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "11:00 - 04:00",
+                "location": "Niazi Medical Complex"
+            },
+            "Tuesday": {
+                "time": "11:00 - 04:00",
+                "location": "Niazi Medical Complex"
+            },
+            "Wednesday": {
+                "time": "11:00 - 04:00",
+                "location": "Niazi Medical Complex"
+            },
+            "Thursday": {
+                "time": "11:00 - 04:00",
+                "location": "Niazi Medical Complex"
+            },
+            "Friday": {
+                "time": "11:00 - 04:00",
+                "location": "Niazi Medical Complex"
+            },
+            "Saturday": {
+                "time": "11:00 - 04:00",
+                "location": "Niazi Medical Complex"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "12",
+        "name": "Prof. Dr. Syed Owais Ahmed",
+        "specialty": "Pathologist",
+        "bio": "Prof. Dr. Syed Owais Ahmed is a highly distinguished and experienced medical professional specializing in Infectious Diseases and Pathology. He is currently serving as a Professor at Al-Tibri Medical College and Hospital (part of Isra University), located in Gadap Town, Karachi. With a career spanning over 42 years, he is recognized as one of the leading experts in his field in Pakistan, particularly for his expertise in managing complex infections and pulmonary condition.",
+        "image": "1770623292_doc11.jpg",
+        "phone": "+92 311 1222398",
+        "email": "ahmadowais@gmail.com",
+        "address": "Al-Tibri Medical College And Hospital, Gadap Town, Karachi",
+        "exp": "42",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "MBBS from Sindh University",
+        "languages": "English, Urdu",
+        "price": "15.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            },
+            "Tuesday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            },
+            "Wednesday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            },
+            "Thursday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            },
+            "Friday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            },
+            "Saturday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            },
+            "Sunday": {
+                "time": "04:00 - 10:00",
+                "location": "Medical College And Hospital"
+            }
+        }
+    },
+    {
+        "id": "11",
+        "name": "Prof. Dr. Nusrat Sharif",
+        "specialty": "Ophthalmology",
+        "bio": "Prof. Dr. Nusrat Sharif is an expert Pediatric Ophthalmologist with 24 years of experience.",
+        "image": "1770623150_doc10.jpg",
+        "phone": "+92 333 1579131",
+        "email": "drnusratsharif@gmail.pk",
+        "address": "Al-Shifa Trust Eye Hospital, Grand Trunk Road, Rawalpindi",
+        "exp": "24",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "MBBS - Quaid-e-Azam Medical College",
+        "languages": "English, Urdu",
+        "price": "4.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "06:00 - 10:00",
+                "location": "Al-Shifa Trust Eye Hospital"
+            },
+            "Tuesday": {
+                "time": "06:00 - 10:00",
+                "location": "Al-Shifa Trust Eye Hospital"
+            },
+            "Wednesday": {
+                "time": "06:00 - 10:00",
+                "location": "Al-Shifa Trust Eye Hospital"
+            },
+            "Thursday": {
+                "time": "06:00 - 10:00",
+                "location": "Al-Shifa Trust Eye Hospital"
+            },
+            "Friday": {
+                "time": "06:00 - 10:00",
+                "location": "Al-Shifa Trust Eye Hospital"
+            },
+            "Saturday": {
+                "time": "06:00 - 10:00",
+                "location": "Al-Shifa Trust Eye Hospital"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "10",
+        "name": "Prof. Dr. Joharia Azhar\"",
+        "specialty": "Dentist",
+        "bio": "Prof. Dr Joharia Azhar is a Professor in Oral pathology & medical education, a consultant laser dentist, cosmetologist, and aesthetic physician. One of the pioneers of Laser dentistry and Laser assisted Pain control clinics, she has practiced in and around Rawalpindi and Islamabad since 2005. She established and introduced her exclusive laser dentistry and laser pain control clinics in 2011, which were later expanded into Pathodont Polyclinics. She is a recipient of the \u201cfirst President\u2019s bussiness women awards 2022\u201d bestowed by Dr Arif Alvi, President of Pakistan.",
+        "image": "1770622967_doc9.jpg",
+        "phone": "+92 316 5366657",
+        "email": "joharia@edu.pk",
+        "address": "Street 1, Dad Khan Avenue, Bostan Khan Road, Behind Shell Pump, Chaklala Scheme 3, Rawalpindi, Pakistan",
+        "exp": "21",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "(Oral Pathology) from Queen Mary University, London",
+        "languages": "English, Urdu",
+        "price": "13.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "11:00 - 09:00",
+                "location": "Joharia Clinic"
+            },
+            "Tuesday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            },
+            "Wednesday": {
+                "time": "11:00 - 09:00",
+                "location": "Joharia Clinic"
+            },
+            "Thursday": {
+                "time": "11:00 - 09:00",
+                "location": "Joharia Clinic"
+            },
+            "Friday": {
+                "time": "11:00 - 09:00",
+                "location": "Joharia Clinic"
+            },
+            "Saturday": {
+                "time": "11:00 - 09:00",
+                "location": "Joharia Clinic"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "9",
+        "name": "Dr. Shahbaz Ahmed Qazi",
+        "specialty": "Ultrasound",
+        "bio": "Dr. Shahbaz Ahmed Qazi is a European board certified interventional radiologist. He has been trained and specialized in minimally invasive procedures from the USA, UK and various centers of Europe. Currently he is working as a consultant vascular interventional radiologist in National Guards Health Affairs Riyadh, a prestigious tertiary care center and largest interventional radiology setup in the middle east. He has over 20 years of experience working as a vascular interventional radiologist. He has been using the latest technological innovations in his regular IR Practice especially vascular interventions. He has been a clinician trainer and faculty at various medical training conferences \u2013 Pakistan and abroad. He has to his credit several publications and presentations in various Medical Journals. Dr Shahbaz Ahmed Qazi is a founder and director of VIC (Vascular and Interventional Courses) an academic professional group conducting interventional radiology courses workshops and symposium in Pakistan. He is currently involved in various tumor board meetings and grand rounds.",
+        "image": "1770622793_doc8.jpg",
+        "phone": "+92 300 7693048",
+        "email": "shahbazvirk@ntu.edu.pk",
+        "address": "Shahbaz Clinic, Sargodha Road, Block B, Muslim Town, Faisalabad",
+        "exp": "20",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "Bachelor of Medicine (MBBS) Sindh Medical College Karachi 1994",
+        "languages": "",
+        "price": "10.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            },
+            "Tuesday": {
+                "time": "08:00 - 10:00",
+                "location": "In Shahbaz Clinic"
+            },
+            "Wednesday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            },
+            "Thursday": {
+                "time": "08:00 - 10:00",
+                "location": "In Shahbaz Clinic"
+            },
+            "Friday": {
+                "time": "08:00 - 10:00",
+                "location": "In Shahbaz Clinic"
+            },
+            "Saturday": {
+                "time": "08:00 - 10:00",
+                "location": "In Shahbaz Clinic"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "8",
+        "name": "Prof. Dr. Shahid Mukhtar",
+        "specialty": "Neurology",
+        "bio": "Assoc. Prof. Dr. Shahid Mukhtar is one of the best neurologists in Lahore. He is very active in his field, and has his own blog as well, which carries informative articles that help people gain knowledge about the neurological issues that affect the public.",
+        "image": "1770615655_doc6.png",
+        "phone": "+92 300 4542015",
+        "email": "smukhtar@uab.edu",
+        "address": "Leopards courier, Shop # 2, Main Blvd Allama Iqbal Town, near Farooq Hospital, Asif Block Allama Iqbal Town, Lahore, Dr Ammara Iqbal, Sadiq Hospital, 24-A Main Satellite Town Rd, Sgd, Sargodha, House Cleaning Services Lahore, Avenue Mall P Block, DHA, Main Ghazi Rd, near Rehman Gardens, Rehman Gardens Lahore",
+        "exp": "35",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "Department of Genetics and Biochemistry at Clemson University",
+        "languages": "English, Urdu",
+        "price": "15.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "08:30 - 10:30, 04:00 - 06:00",
+                "location": "In Farooq Hospital, In Farooq Hospital (DHA)"
+            },
+            "Tuesday": {
+                "time": "08:30 - 10:30, 04:00 - 06:00",
+                "location": "In Farooq Hospital, In Farooq Hospital (DHA)"
+            },
+            "Wednesday": {
+                "time": "08:30 - 10:30, 04:00 - 06:00",
+                "location": "In Farooq Hospital, In Farooq Hospital (DHA)"
+            },
+            "Thursday": {
+                "time": "08:30 - 10:30, 04:00 - 06:00",
+                "location": "In Farooq Hospital, In Farooq Hospital (DHA)"
+            },
+            "Friday": {
+                "time": "08:30 - 10:30, 04:00 - 06:00",
+                "location": "In Farooq Hospital, In Farooq Hospital (DHA)"
+            },
+            "Saturday": {
+                "time": "08:00 - 10:00",
+                "location": "In Sadiq Hospital (SGD)"
+            },
+            "Sunday": {
+                "time": "08:00 - 10:00",
+                "location": "In Sadiq Hospital (SGD)"
+            }
+        }
+    },
+    {
+        "id": "6",
+        "name": "Prof. Dr. Sajjad Naseer",
+        "specialty": "Neurology",
+        "bio": "Dr. Sajjad Naseer is a Consultant (Neurologist) practicing at Neuro Diagnostics, Lahore. He is specialist in treating neuropathies, migraine, general pediatric neurology and neuromuscular rehabilitation. He has an experience of 30 years in his field. He has done MBBS from Punjab University, later on, he did FCPS (Neurology) from College of Physicians and Surgeons Pakistan, MRCP (General Medicine) from RCP Ireland and then MRCPS from Glasgow, FAAN from Fellow of the American Academy of Neurology and American Board of Electro Diagnostic Medicine From USA.",
+        "image": "1770614515_doc5.jpg",
+        "phone": "+92 335 4839629",
+        "email": "marham@gmail.pk",
+        "address": "Dr. Sajjad Naseer Clinic (Lahore), Islamabad Specialists Clinic (F-8 ISC) (Islamabad)",
+        "exp": "30",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "MBBS - King Edward Medical University, 1987",
+        "languages": "English, Urdu",
+        "price": "10.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "06:00 - 08:30",
+                "location": "In Block J DHA EME Sector, Lahore"
+            },
+            "Tuesday": {
+                "time": "06:00 - 08:30",
+                "location": "In Block J DHA EME Sector, Lahore"
+            },
+            "Wednesday": {
+                "time": "06:00 - 08:30",
+                "location": "In Block J DHA EME Sector, Lahore"
+            },
+            "Thursday": {
+                "time": "06:00 - 08:30",
+                "location": "In Block J DHA EME Sector, Lahore"
+            },
+            "Friday": {
+                "time": "06:00 - 08:30",
+                "location": "In Block J DHA EME Sector, Lahore"
+            },
+            "Saturday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "5",
+        "name": "Dr. M. Ramzan Chaudhry",
+        "specialty": "Urology",
+        "bio": "Brig.(R) Dr. Muhammad Ramzan Ch. is an expert andrologist and sexologist, practicing in Lahore. Specializing in male health, Dr. Ramzan is one of the most sought-after doctors in the city. With 42 years of (clinical) experience in urological and andrological procedures and surgeries, Brig.(R) Dr. Muhammad Ramzan Ch. has also served in the administrative capacity in Pakistan Army. A member of the Pakistan Medical Commission (PMC), he is currently serving as an Assistant Professor at the Shalamar Medical College as well.",
+        "image": "1770614196_doc4.jpg",
+        "phone": "+92 321 4259342",
+        "email": "ramzan.muhammad@uos.edu.pk",
+        "address": "Dr Rukhsana Manzoor Zafar, Best Gynaecologist, Infertility specialist, Laparoscopic Surgeon, New Muslim Town Abu Bakar Block Garden Town, Lahore, Baba-e-Homeopathy Dr. Hamid's National Homeo Stores, Khursheed plaza, basement D.H.A. Main Blvd, Defence, Lahore, 54810",
+        "exp": "47",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "University of Karachi, Pakistan",
+        "languages": "English, Urdu",
+        "price": "12.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "09:30 - 01:00, 01:30 - 02:30",
+                "location": "In Hameed Latif Hospital, In Rasheed Hospital (DHA)"
+            },
+            "Tuesday": {
+                "time": "09:30 - 01:00, 01:30 - 02:30",
+                "location": "In Hameed Latif Hospital, In Rasheed Hospital (DHA)"
+            },
+            "Wednesday": {
+                "time": "09:30 - 01:00, 01:30 - 02:30",
+                "location": "In Hameed Latif Hospital, In Rasheed Hospital (DHA)"
+            },
+            "Thursday": {
+                "time": "09:30 - 01:00, 01:30 - 02:30",
+                "location": "In Hameed Latif Hospital, In Rasheed Hospital (DHA)"
+            },
+            "Friday": {
+                "time": "09:30 - 12:00, 02:30 - 03:00",
+                "location": "In Hameed Latif Hospital, In Rasheed Hospital (DHA)"
+            },
+            "Saturday": {
+                "time": "09:30 - 01:00, 01:30 - 02:30",
+                "location": "In Hameed Latif Hospital, In Rasheed Hospital (DHA)"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "3",
+        "name": "Dr. Faisal Ahmed Zaeem",
+        "specialty": "Urology",
+        "bio": "Dr. Faisal Ahmed Zaeem graduated from State Medical University, Volgograd, Russia with the award of MD. Masters In Urology from Punjab University, Lahore. Registered with Pakistan Medical Commission. Trained in urology at Sir Ganga Ram Hospital, Lahore. Member Pakistan Association of Urological Surgeons. Working as a consultant Urologist in Sir Ganga Ram Hospital. Visiting Consultant Urologist at Horizon Hospital, Johar Town Lahore. Visiting Consultant Urologist at Islamabad Diagnostic Center, Jail Road, Lahore.",
+        "image": "1770613717_doc3.jpg",
+        "phone": "+92 304 0035050",
+        "email": "info@drzaeem.com",
+        "address": "IDC Shadman Jail Road Lahore, Horizon hospital johar town lahore, City Hospital Jail Chowk Gujrat, AMC Ghazi Chak GT Road Gujrat",
+        "exp": "19",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "State Medical University, Volgograd",
+        "languages": "English, Urdu",
+        "price": "20.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "02:00 - 04:00, 04:00 - 06:00",
+                "location": "In IDC Shadman, In Horizon hospital"
+            },
+            "Tuesday": {
+                "time": "02:00 - 04:00, 04:00 - 06:00",
+                "location": "In IDC Shadman, In Horizon hospital"
+            },
+            "Wednesday": {
+                "time": "02:00 - 04:00, 04:00 - 06:00",
+                "location": "In IDC Shadman, In Horizon hospital"
+            },
+            "Thursday": {
+                "time": "02:00 - 04:00, 04:00 - 06:00",
+                "location": "In IDC Shadman, In Horizon hospital"
+            },
+            "Friday": {
+                "time": "02:00 - 04:00, 04:00 - 06:00",
+                "location": "In IDC Shadman, In Horizon hospital"
+            },
+            "Saturday": {
+                "time": "06:00 - 09:00, 03:00 - 05:00",
+                "location": "In City Hospital, In AMC Ghazi"
+            },
+            "Sunday": {
+                "time": "06:00 - 09:00, 03:00 - 05:00",
+                "location": "In City Hospital, In AMC Ghazi"
+            }
+        }
+    },
+    {
+        "id": "2",
+        "name": "Dr. Ahmad Usman",
+        "specialty": "Cardiology",
+        "bio": "Dr. Ahmad Usman is a Consultant Cardiologist with over 20 years of experience. He is a graduate of Army Medical College Rawalpindi. He did his Fellowship in Internal Medicine (FCPS Medicine) and then did his second fellowship in Cardiology (FCPS Cardiology). He did his training in Cardiac CT from Johns Hopkins University USA and is a Diplomate American Board of Cardiac CT and holds the Fellowship of Society of Cardiovascular CT from USA. He has worked at Chelmsford Hospital UK and is a Fellow of the Royal College of Physicians (FRCP) Glasgow UK. He has written numerous research articles in not only local but also international medical journals. He is actively involved in the undergraduate as well as post graduate training of medical students and is currently an Associate Professor of Cardiology at CMH Lahore Medical College. He is a Supervisor in Cardiology with CPSP as well as an Examiner of FCPS Cardiology at CPSP. He has a special interest in complex coronary interventions and is skilled in both non-interventional and interventional cardiology procedures. Due to his outstanding achievements in his field as well as his reputation as an excellent doctor he has the unique honor of being appointed as the Physician to the President of Islamic Republic of Pakistan.",
+        "image": "1770199677_doc2.jpg",
+        "phone": "+92 317 1777509",
+        "email": "ahmed.usman@eum.edu.pk",
+        "address": "Satayana Rd, D Ground Block B People's Colony No 1, Faisalabad",
+        "exp": "20",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "University Malaysia Sarawak (UNIMAS)",
+        "languages": "English, Urdu",
+        "price": "12.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "03:00 - 06:00",
+                "location": "Integrated Medical Care (IMC) Hospital, Lahore"
+            },
+            "Tuesday": {
+                "time": "03:00 - 06:00",
+                "location": "Integrated Medical Care (IMC) Hospital, Lahore"
+            },
+            "Wednesday": {
+                "time": "03:00 - 06:00",
+                "location": "Integrated Medical Care (IMC) Hospital, Lahore"
+            },
+            "Thursday": {
+                "time": "03:00 - 06:00",
+                "location": "Integrated Medical Care (IMC) Hospital, Lahore"
+            },
+            "Friday": {
+                "time": "03:00 - 06:00",
+                "location": "Integrated Medical Care (IMC) Hospital, Lahore"
+            },
+            "Saturday": {
+                "time": "03:00 - 06:00",
+                "location": "Integrated Medical Care (IMC) Hospital, Lahore"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    },
+    {
+        "id": "1",
+        "name": "Prof. Dr. M. Akbar   Chaudhry",
+        "specialty": "Cardiology",
+        "bio": "Prof. Dr. M. Akbar Chaudhry is a highly experienced cardiologist and medical educator in Lahore, Pakistan, with over 45 years in medicine, specializing in complex heart conditions like angiography, angioplasty, and cardiovascular surgery, holding fellowships from prestigious UK colleges, and serving as Principal for Fatima Jinnah Medical College and a key figure in establishing Azra Naheed Medical College.",
+        "image": "1770197333_doc1.jpg",
+        "phone": "+92 300 4200330",
+        "email": "dean.anmc@superior.edu.pk",
+        "address": "16, College Block, Allama Iqbal Town, Lahore, Pakistan",
+        "exp": "47",
+        "patients": "1k+",
+        "awards": "5",
+        "university": "College of Physicians of London",
+        "languages": "English, Urdu",
+        "price": "9.00",
+        "availability": "Available Now",
+        "rating": "4.5",
+        "schedule": {
+            "Monday": {
+                "time": "06:00 - 09:30",
+                "location": "Cardiomed Clinic, Allama Iqbal Town, Lahore"
+            },
+            "Tuesday": {
+                "time": "06:00 - 09:30",
+                "location": "Cardiomed Clinic, Allama Iqbal Town, Lahore"
+            },
+            "Wednesday": {
+                "time": "06:00 - 09:30",
+                "location": "Cardiomed Clinic, Allama Iqbal Town, Lahore"
+            },
+            "Thursday": {
+                "time": "06:00 - 09:30",
+                "location": "Cardiomed Clinic, Allama Iqbal Town, Lahore"
+            },
+            "Friday": {
+                "time": "06:00 - 09:30",
+                "location": "Cardiomed Clinic, Allama Iqbal Town, Lahore"
+            },
+            "Saturday": {
+                "time": "06:00 - 09:30",
+                "location": "Cardiomed Clinic, Allama Iqbal Town, Lahore"
+            },
+            "Sunday": {
+                "time": "No Time Today",
+                "location": "Clinic Closed"
+            }
+        }
+    }
+]
